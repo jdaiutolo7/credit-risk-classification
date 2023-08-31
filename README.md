@@ -10,7 +10,7 @@
 
 ## Results
 
-### LogisticRegression Model
+### Logistic Regression Model
   * Model was 99% accurate in predicting low risk loans and 91% accurate in predicting high risk loans
   * All of the accuracy and F1-score readings came back over 90% except for the high risk loans F1-score which just missed that mark at 88%
 
