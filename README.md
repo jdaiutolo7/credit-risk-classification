@@ -2,7 +2,7 @@
 
 ## Overview
 
-* The purpose of the analysis is creating a Logistic Regression Model to predict healthy vs high risk loans ( a loan that is likly to be paid off in full without defalut) vs. a risky loan (where the borrower might fail to make the payment in its entirety).
+* The purpose of the analysis is creating a Logistic Regression Model to predict healthy vs high risk loans
 * The significance here is that while healthy loans would be paid off without issue, a high risk loan would be significantly more likely to run into problems with payment. A model that could predict these with high accuracy would naturally be very valuable
 * To create this model, dataset 'lending_data.csv' was loaded in and analyzed
 * After analysis was conducted, the data was split into training and testing using the sklearn model
